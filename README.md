@@ -1,1 +1,2 @@
-# Infinite-Hover-Mod
+# infinitehover
+Infinite Hover Game - Unity
